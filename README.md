@@ -5,7 +5,7 @@ Final project for GAM1537: Programming Fundamentals II.
 ________________________________________________________________________
 Controsl:
 
-Left/Right Arrows keys: Move
+Left/Right Arrows keys: Move  
 Space: Shoot
 ________________________________________________________________________
 
